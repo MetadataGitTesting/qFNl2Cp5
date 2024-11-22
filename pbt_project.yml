@@ -1,0 +1,49 @@
+name: earle.casper
+description: Business-focused
+version: 0.0.1
+author: zo7ggtj4.wmaigph5@8qbrk8gq.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: earlecasper
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-11-22 23:05:51'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-11-22 23:05:51'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-11-22T23:05:51.610009Z'
+  name: plibMaven
+  version: 8.6.0-SNAPSHOT
+  id: '1750842455'
+  createdAt: '2024-11-22T23:05:51.610009Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
